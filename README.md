@@ -106,7 +106,7 @@ The project followed a **structured 3-step approach**:
 ---
 
 ## 🖼 Data Presentation
-(*Insert screenshots of your Power BI dashboard here*)  
+![Dashboard](https://github.com/Zinnat-hub/Marketing-Analysis/blob/main/Marketing%20Image/Visuals.png?raw=true)  
 
 ---
 
