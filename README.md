@@ -68,7 +68,7 @@ The project followed a **structured 3-step approach**:
 | **Total Clicks (CTR)** | 12M (≈ 5%) |
 | **Total Conversions** | 1M (≈ 10%) |
 | **Total Revenue** | ₹344.33M |
-| **ROI ** | 359.92K |
+| **ROI** | 359.92K |
 
 > 💡 *For every ₹1 spent, the campaigns generated ₹1.41 in profit.*
 
