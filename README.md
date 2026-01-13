@@ -106,7 +106,7 @@ The project followed a **structured 3-step approach**:
 ---
 
 ## 🖼 Data Presentation
-![Dashboard]https://github.com/Zinnat-hub/Marketing-Analysis/blob/f14204ca4672a82b4880130d7ae260fbfc6a662e/Merged_document.jpg 
+![Dashboard]Merged_document.jpg 
 
 ---
 
