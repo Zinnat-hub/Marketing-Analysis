@@ -106,7 +106,8 @@ The project followed a **structured 3-step approach**:
 ---
 
 ## 🖼 Data Presentation
-![Dashboard]Merged_document.jpg 
+![Marketing Analysis Dashboard](Merged_document.jpg)
+
 
 ---
 
