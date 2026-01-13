@@ -68,7 +68,7 @@ The project followed a **structured 3-step approach**:
 | **Total Clicks (CTR)** | 12M (≈ 5%) |
 | **Total Conversions** | 1M (≈ 10%) |
 | **Total Revenue** | ₹344.33M |
-| **ROI (DAX ROI)** | 141.51 |
+| **ROI ** | 359.92K |
 
 > 💡 *For every ₹1 spent, the campaigns generated ₹1.41 in profit.*
 
@@ -84,8 +84,7 @@ The project followed a **structured 3-step approach**:
 ## 📥 Data Insights
 
 ### 📌 Spending & Engagement
-- **Highest Ad Spend** → Google Ads (₹0.53M), followed by Referral Marketing (₹0.53M)  
-- **Most Clicks** → Instagram Ads, despite lower spend  
+- **Highest Ad Spend** → Google Ads (₹529.99K), followed by Referral Marketing (₹516.51K)    
 - Influencer Marketing & Email Campaigns → Lowest engagement  
 
 ### 📌 Conversions & Revenue
@@ -115,7 +114,7 @@ The project followed a **structured 3-step approach**:
 - 4-month campaign delivered **exceptional performance**:  
   - Ad Spend: ₹2.42M  
   - Revenue: ₹344.33M  
-  - ROI: 141.51  
+  - ROI: 359.92K  
 
 - **Engagement**: 12M clicks (CTR ≈ 5.09%)  
 - **Conversions**: 9.81% (≈ 1 in 10 clicks resulted in purchase)  
