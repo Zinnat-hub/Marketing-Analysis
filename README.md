@@ -110,20 +110,6 @@ The project followed a **structured 3-step approach**:
 
 ---
 
-## ✅ Conclusion
-- 4-month campaign delivered **exceptional performance**:  
-  - Ad Spend: ₹2.42M  
-  - Revenue: ₹344.33M  
-  - ROI: 359.92K  
-
-- **Engagement**: 12M clicks (CTR ≈ 5.09%)  
-- **Conversions**: 9.81% (≈ 1 in 10 clicks resulted in purchase)  
-- **Top Channel**: Instagram Ads for engagement; Google Ads & Referral Marketing for high spend  
-- **Top Category**: Household Products for ROI & conversions; Cold Drinks for revenue  
-- Seasonal peaks in December–January boosted results  
-
----
-
 ## 📌 Recommendations
 1. **Reallocate Spend to High-Performing Channels**  
    - Increase investment in Instagram Ads  
@@ -143,4 +129,18 @@ The project followed a **structured 3-step approach**:
 
 ---
 
-🚀 This project showcases how **Power BI** can transform raw marketing data into **actionable insights**, helping businesses optimize ad spend, improve engagement, and maximize profitability.  
+🚀 This project showcases how **Power BI** can transform raw marketing data into **actionable insights**, helping businesses optimize ad spend, improve engagement, and maximize profitability.
+
+## ✅ Conclusion
+- 4-month campaign delivered **exceptional performance**:  
+  - Ad Spend: ₹2.42M  
+  - Revenue: ₹344.33M  
+  - ROI: 359.92K  
+
+- **Engagement**: 12M clicks (CTR ≈ 5.09%)  
+- **Conversions**: 9.81% (≈ 1 in 10 clicks resulted in purchase)  
+- **Top Channel**: Instagram Ads for engagement; Google Ads & Referral Marketing for high spend  
+- **Top Category**: Household Products for ROI & conversions; Cold Drinks for revenue  
+- Seasonal peaks in December–January boosted results  
+
+---
